@@ -8,7 +8,7 @@ Video Recording and Display: The system begins recording a high-resolution video
 Dynamic Recording Extension: If motion continues beyond a predefined period, the system dynamically extends the recording until the motion ceases.
 
 Snapshot Capture : During motion, snapshots are captured at set intervals, enabling remote monitoring in real-time.
-\
+
 Time-Stamped Log: Each motion event is logged in a text file with a timestamp, duration, and other details, allowing for detailed post-event review.
 
 This system is suitable for applications such as home security or facility monitoring. Below is the modified code to achieve these improvements.
